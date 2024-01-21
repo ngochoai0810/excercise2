@@ -1,0 +1,223 @@
+body {
+  padding: 0px 15vw;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+a {
+  display: inline-block;
+}
+
+button:hover {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+.ib .logo {
+  font-weight: 700;
+  font-size: 64px;
+}
+
+.logo .icon {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+header {
+  vertical-align: middle;
+  padding: 20px 0;
+}
+
+.ib {
+  display: inline-block;
+  vertical-align: top;
+}
+
+header .ib {
+  vertical-align: middle;
+}
+
+.logo-text {
+  display: inline-block;
+  margin: 20px 0px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 60;
+  font-style: normal;
+  font-size: 25px;
+}
+
+.description p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.logo {
+  display: inline-block;
+  padding: 5px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.logo p,
+.logo i {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.fa-fish {
+  font-size: 50px;
+}
+
+.empty-header {
+  width: 35vw;
+}
+
+.brand-icon {
+  background-color: rgb(255, 126, 148);
+  color: white;
+  padding: 6px;
+  border-radius: 50%;
+  margin: 0px 5px;
+}
+
+.img-dog {
+  margin-right: 100px;
+}
+
+.section1 {
+  margin: 0 50px 100px 50px;
+}
+
+.section1 .description {
+  width: 400px;
+}
+
+h4 {
+  font-weight: 800;
+  color: rgb(255, 126, 148);
+  font-size: 30px;
+  margin: 5px 0px;
+}
+
+.info div {
+  margin: 0px 10px;
+}
+
+.section1 .empty {
+  height: 30px;
+}
+
+.section1 h1 {
+  text-transform: uppercase;
+  font-size: 32px;
+  margin: 50px 0;
+}
+
+h2 {
+  margin: 3px 0px;
+  font-size: medium;
+  font-weight: 1000;
+  text-transform: uppercase;
+}
+
+.underline {
+  background-color: rgb(255, 126, 148);
+  border-radius: 1px;
+  height: 3px;
+}
+
+.section2 .underline {
+  width: 90px;
+}
+
+.sub {
+  font-weight: 100;
+  color: #585454;
+}
+
+.section2 .sub {
+max-width: 900px;
+}
+
+.lh2 {
+  font-size: large;
+  line-height: 200%;
+}
+
+.section3 {
+  margin: 120px 0;
+}
+
+.section3 button {
+  display: block;
+  margin: 0 auto;
+  background-color: white;
+  color: rgb(255, 126, 148);
+  border: solid 3px rgb(255, 126, 148);
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.section4 {
+  margin: 100px 0;
+}
+
+.section4 .underline {
+  width: 110px;
+  margin-bottom: 15px;
+}
+
+.section4 div {
+  max-width: 450px;
+}
+
+.section4 .mr {
+  margin-right: 30px;
+}
+
+.section4 button {
+  font-size: 12px;
+  padding: 10px 15px;
+  background-color: white;
+  border: solid 1px grey;
+  border-radius: 20px;
+  margin: 10px 5px 10px 0;
+  cursor: pointer;
+}
+
+.section5 {
+  margin: 50px 0;
+}
+
+.section5 .underline {
+  width: 170px;
+  margin-bottom: 30px;
+}
+
+.section5 .experiences div {
+  max-width: 450px;
+}
+
+.section5 .experiences .mr {
+  margin-right: 40px;
+}
+
+.section5 .experiences li {
+  margin: 15px 0;
+}
+
+.section5 .experiences .title p {
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.section5 .experiences .title .sub {
+  font-weight: 100;
+  font-size: 32px;
+  margin: 10px 0;
+}
